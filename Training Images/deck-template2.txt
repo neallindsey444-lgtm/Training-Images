@@ -2,4 +2,4 @@
 # One image link or path per line. Lines starting with # are comments and are ignored.
 
 # Slide 1 - Image 1
-https://github.com/neallindsey444-lgtm/ISR-Images/blob/main/ISR%20Images/01.png
+https://github.com/neallindsey444-lgtm/Training-Images/blob/main/Training%20Images/Training%20Images/jtfs_emblem_loop.gif

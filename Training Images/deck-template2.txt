@@ -1,0 +1,5 @@
+# Operation Name - Training Images
+# One image link or path per line. Lines starting with # are comments and are ignored.
+
+# Slide 1 - Image 1
+https://github.com/neallindsey444-lgtm/ISR-Images/blob/main/ISR%20Images/01.png
